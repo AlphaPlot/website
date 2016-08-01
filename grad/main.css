@@ -1,0 +1,76 @@
+
+/*---------------------------------------------------------*/
+/*  GRADIENT                                               */
+/*  Check: http://www.gradient-animator.com                */
+/*---------------------------------------------------------*/
+@-webkit-keyframes itlGradient {
+    0%{background-position:90% 0%}
+    50%{background-position:11% 100%}
+    100%{background-position:90% 0%}
+}
+@-moz-keyframes itlGradient {
+    0%{background-position:90% 0%}
+    50%{background-position:11% 100%}
+    100%{background-position:90% 0%}
+}
+@-o-keyframes itlGradient {
+    0%{background-position:90% 0%}
+    50%{background-position:11% 100%}
+    100%{background-position:90% 0%}
+}
+@keyframes itlGradient {
+    0%{background-position:90% 0%}
+    50%{background-position:11% 100%}
+    100%{background-position:90% 0%}
+}
+
+.gradient-1 {
+	background: linear-gradient(270deg, #9d8c00, #4c0158, #088b99);
+	background-size: 600% 600% !important;
+	-webkit-animation: itlGradient 16s ease infinite;
+	-moz-animation: itlGradient 16s ease infinite;
+	-o-animation: itlGradient 16s ease infinite;
+	animation: itlGradient 16s ease infinite;
+}
+
+/*---------------------------------------------------------*/
+/*  HEADER                                                 */
+/*---------------------------------------------------------*/
+
+/* ANIMATE FOR ENTRY */
+
+.animated {
+	-webkit-animation-duration: 1s;
+			animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+			animation-fill-mode: both;
+}
+
+/* HEADER STYLE */
+header .container {
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+
+header .intro {
+ 	-ms-filter: “alpha(opacity=0)”;
+		  filter: alpha(opacity=0);
+				 -khtml-opacity: 0;
+				   -moz-opacity: 0;
+						opacity: 0;
+}
+
+.header-phones-version {
+	/*overflow: hidden;*/
+	height: 100vh;
+}
+
+.header-phones-version h1{
+	font-size: 96px;
+	display:inline;
+	vertical-align: bottom;
+	line-height: 115px;
+	color:rgba(255,255,255,0.70);
+	white-space: nowrap;
+}
