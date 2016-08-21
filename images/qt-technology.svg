@@ -38,9 +38,9 @@
      inkscape:window-height="751"
      id="namedview39"
      showgrid="false"
-     inkscape:zoom="2.52"
-     inkscape:cx="66.383136"
-     inkscape:cy="100"
+     inkscape:zoom="2.3512431"
+     inkscape:cx="39.367205"
+     inkscape:cy="144.40975"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -77,38 +77,42 @@
            width="140"
            height="120"
            rx="3"
-           style="fill:#b9e1ea;fill-opacity:1;stroke:#bcffff;stroke-opacity:1" />
+           style="fill:#ff8300;fill-opacity:1;stroke:#ff5033;stroke-opacity:1" />
         <path
            d="M 1.7751554,30 137.77765,30"
            id="Line"
            inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke:#4ea3b3;stroke-width:2" />
+           style="fill:#ffffff;stroke:#ff5033;stroke-width:2;stroke-opacity:1" />
         <polygon
            id="Input"
            stroke="#4EA3B3"
            fill="#FFFFFF"
-           points="130 20 56 20 56 10 130 10" />
+           points="130 20 56 20 56 10 130 10"
+           style="stroke:#ff5033;stroke-opacity:1" />
         <circle
            id="Button"
            stroke="#4EA3B3"
            fill="#FFFFFF"
            cx="45"
            cy="15"
-           r="5" />
+           r="5"
+           style="stroke:#ff5033;stroke-opacity:1" />
         <circle
            id="circle35"
            stroke="#4EA3B3"
            fill="#FFFFFF"
            cx="30"
            cy="15"
-           r="5" />
+           r="5"
+           style="stroke:#ff5033;stroke-opacity:1" />
         <circle
            id="circle37"
            stroke="#4EA3B3"
            fill="#FFFFFF"
            cx="15"
            cy="15"
-           r="5" />
+           r="5"
+           style="stroke:#ff5033;stroke-opacity:1" />
       </g>
     </g>
   </g>

@@ -1,31 +1,22 @@
-/*
-	researcharun.com website CSS file
-*/
-
+/* researcharun.com website CSS file */
 
 /*********************************************************************************/
-/* Global                                                                        */
+/*                                     Global                                    */
 /*********************************************************************************/
 
 body {
-	font-size: 9pt;
+    font-size: 9pt;
 }
+
 
 /* Banner */
 
-	#banner
-	{
-	}
+#banner {}
 
-	#banner h2
-	{
-		font-size: 3.75em;
-	}
+#banner h2 {
+    font-size: 3.75em;
+}
 
-	#banner p
-	{
-		font-size: 1.20em;
-	}
-	
-
-	
+#banner p {
+    font-size: 1.20em;
+}
