@@ -41,6 +41,21 @@ section {
     display: block;
 }
 
+.button-mac-download {
+    display: block;
+}
+
+.button-mac-download span {
+    display: block;
+}
+
+.button-linux-download {
+    display: block;
+}
+
+.button-linux-download span {
+    display: block;
+}
 
 /* List style 5 */
 
@@ -112,7 +127,7 @@ ul.style5 li {
 }
 
 #banner section {
-    margin-bottom: 28em;
+    margin-bottom: 24em;
     text-align: center;
 }
 
